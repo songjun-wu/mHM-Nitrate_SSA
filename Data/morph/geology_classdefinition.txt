@@ -1,0 +1,9 @@
+nGeo_Units	6			
+GeoParam(i)	ClassUnit	Karstic	Description	
+1	1	0	k2_GeoUnit-0.........[d]	
+2	2	0	k2_GeoUnit-2.........[d]	
+3	3	0	k2_GeoUnit-3.........[d]	
+4	4	0	k2_GeoUnit-4.........[d]	
+5	5	0	k2_GeoUnit-5.........[d]	
+6	6	0	k2_GeoUnit-6.........[d]	
+!<-END				

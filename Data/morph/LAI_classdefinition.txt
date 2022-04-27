@@ -1,0 +1,9 @@
+NoLAIclasses	7													
+	ID	LAND-USE	Jan.	Feb.	Mar.	Apr.	May	Jun.	Jul.	Aug.	Sep.	Oct.	Nov.	Dec.
+	1	Discontinous_urban_fabric	1.17	1.17	1.75	2.33	2.92	2.92	2.92	2.92	2.92	1.75	1.46	1.17
+	2	Non-irrigated_arable_land	0.23	0.23	0.18	0.41	1.75	3.03	2.68	1.81	0.76	0.12	0	0
+	3	Pasture_meadows	1.17	1.17	1.75	2.33	2.92	2.92	2.92	2.92	2.92	1.75	1.46	1.17
+	4	Wetlands	0.01	0.01	0.01	0.02	0.04	0.05	0.05	0.04	0.04	0.02	0.01	0.01
+	5	Broad_leaved_forest	0.29	0.29	0.88	2.33	4.08	6.42	7	7	6.42	4.67	0.88	0.29
+	6	Coniferous_Forest	6.42	6.42	6.42	6.42	6.42	6.42	6.42	6.42	6.42	6.42	6.42	6.42
+	7	Mixed_forest	1.75	1.75	2.33	3.5	4.67	6.42	6.71	6.71	6.42	5.25	2.33	1.75
