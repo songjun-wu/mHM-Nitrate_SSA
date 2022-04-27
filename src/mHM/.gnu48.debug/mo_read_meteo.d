@@ -1,0 +1,2 @@
+/home/wusongj/task1/src/mHM/.gnu48.debug/mo_read_meteo.d : /home/wusongj/task1/src/mHM/mo_read_meteo.f90
+/home/wusongj/task1/src/mHM/.gnu48.debug/mo_read_meteo.o : /home/wusongj/task1/src/mHM/.gnu48.debug/mo_read_meteo.d /home/wusongj/task1/src/lib/.gnu48.debug/mo_julian.o /home/wusongj/task1/src/lib/.gnu48.debug/mo_kind.o /home/wusongj/task1/src/lib/.gnu48.debug/mo_message.o /home/wusongj/task1/src/lib/.gnu48.debug/mo_string_utils.o /home/wusongj/task1/src/common/.gnu48.debug/mo_common_variables.o /home/wusongj/task1/src/mHM/.gnu48.debug/mo_file.o

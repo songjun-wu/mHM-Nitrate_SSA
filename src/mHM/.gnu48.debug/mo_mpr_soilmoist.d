@@ -1,0 +1,2 @@
+/home/wusongj/task1/src/mHM/.gnu48.debug/mo_mpr_soilmoist.d : /home/wusongj/task1/src/mHM/mo_mpr_soilmoist.f90
+/home/wusongj/task1/src/mHM/.gnu48.debug/mo_mpr_soilmoist.o : /home/wusongj/task1/src/mHM/.gnu48.debug/mo_mpr_soilmoist.d /home/wusongj/task1/src/lib/.gnu48.debug/mo_append.o /home/wusongj/task1/src/lib/.gnu48.debug/mo_kind.o /home/wusongj/task1/src/lib/.gnu48.debug/mo_message.o /home/wusongj/task1/src/mHM/.gnu48.debug/mo_mhm_constants.o /home/wusongj/task1/src/mRM/.gnu48.debug/mo_mrm_global_variables.o

@@ -1,0 +1,2 @@
+/home/wusongj/task1/src/lib/.gnu48.debug/mo_nml.d : /home/wusongj/task1/src/lib/mo_nml.f90
+/home/wusongj/task1/src/lib/.gnu48.debug/mo_nml.o : /home/wusongj/task1/src/lib/.gnu48.debug/mo_nml.d /home/wusongj/task1/src/lib/.gnu48.debug/mo_finish.o /home/wusongj/task1/src/lib/.gnu48.debug/mo_kind.o /home/wusongj/task1/src/lib/.gnu48.debug/mo_message.o /home/wusongj/task1/src/lib/.gnu48.debug/mo_string_utils.o

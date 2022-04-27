@@ -1,0 +1,2 @@
+/home/wusongj/task1/src/common/.gnu48.debug/mo_read_timeseries.d : /home/wusongj/task1/src/common/mo_read_timeseries.f90
+/home/wusongj/task1/src/common/.gnu48.debug/mo_read_timeseries.o : /home/wusongj/task1/src/common/.gnu48.debug/mo_read_timeseries.d /home/wusongj/task1/src/lib/.gnu48.debug/mo_julian.o /home/wusongj/task1/src/lib/.gnu48.debug/mo_kind.o /home/wusongj/task1/src/lib/.gnu48.debug/mo_message.o

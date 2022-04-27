@@ -1,0 +1,2 @@
+/home/wusongj/task1/src/mRM/.gnu48.debug/mo_mrm_routing.d : /home/wusongj/task1/src/mRM/mo_mrm_routing.f90
+/home/wusongj/task1/src/mRM/.gnu48.debug/mo_mrm_routing.o : /home/wusongj/task1/src/mRM/.gnu48.debug/mo_mrm_routing.d /home/wusongj/task1/src/lib/.gnu48.debug/mo_kind.o /home/wusongj/task1/src/mRM/.gnu48.debug/mo_mrm_net_startup.o /home/wusongj/task1/src/mRM/.gnu48.debug/mo_mrm_global_variables.o /home/wusongj/task1/src/mRM/.gnu48.debug/mo_mrm_mpr.o /home/wusongj/task1/src/mRM/.gnu48.debug/mo_mrm_constants.o

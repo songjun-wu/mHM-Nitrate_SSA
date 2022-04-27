@@ -1,0 +1,2 @@
+/home/wusongj/task1/src/mHM/.gnu48.debug/mo_mpr_runoff.d : /home/wusongj/task1/src/mHM/mo_mpr_runoff.f90
+/home/wusongj/task1/src/mHM/.gnu48.debug/mo_mpr_runoff.o : /home/wusongj/task1/src/mHM/.gnu48.debug/mo_mpr_runoff.d /home/wusongj/task1/src/lib/.gnu48.debug/mo_append.o /home/wusongj/task1/src/lib/.gnu48.debug/mo_kind.o /home/wusongj/task1/src/mHM/.gnu48.debug/mo_upscaling_operators.o /home/wusongj/task1/src/mRM/.gnu48.debug/mo_mrm_global_variables.o
